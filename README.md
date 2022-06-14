@@ -46,7 +46,7 @@
 </div>
 
 ###
-<img href="https://github.com/cassioate/cassioate/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/cassioate/cassioate/workflows/snake.svg" alt="Snake animation" />
 
 ###
 <div align="center">
