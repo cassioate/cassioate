@@ -56,7 +56,7 @@
 
 ###
 <div align="center">
-  ![snake gif](https://github.com/cassioate/cassioate/blob/output/github-contribution-grid-snake.gif)
+  <img src=https://github.com/cassioate/cassioate/blob/output/github-contribution-grid-snake.gif alt=snake>
   </div>
 
 
