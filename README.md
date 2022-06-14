@@ -55,7 +55,10 @@
 <p align="left"></p>
 
 ###
-![snake gif](https://github.com/cassioate/cassioate/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  ![snake gif](https://github.com/cassioate/cassioate/blob/output/github-contribution-grid-snake.gif)
+  </div>
+
 
 ###
 <div align="center">
