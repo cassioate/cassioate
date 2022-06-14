@@ -55,7 +55,7 @@
 <p align="left"></p>
 
 ###
-<img href="https://github.com/cassioate/cassioate/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/cassioate/cassioate/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 <div align="center">
