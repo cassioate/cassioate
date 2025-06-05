@@ -49,12 +49,6 @@
 
 ###
 <div align="center">
-  <img src=https://github.com/cassioate/cassioate/blob/output/github-contribution-grid-snake.gif alt=snake>
-  </div>
-
-
-###
-<div align="center">
   <a href="https://open.spotify.com/user/31iqrmljwopawe6shad4hka6ifsu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31iqrmljwopawe6shad4hka6ifsu&count=5&unique=true" alt="Spotify recently played"  />
   </a>
